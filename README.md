@@ -1,4 +1,3 @@
-
 git clone [https://github.com/Danoliver212/ong-platform.git]
 cd ong-platform
 
